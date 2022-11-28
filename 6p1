@@ -1,0 +1,14 @@
+n=int(input('Enter Pin'))
+if n==8967:
+  print('Continue the transaction')
+else:
+   print('Incorrect Pin')
+   print('Please try again')
+   
+   
+   
+   
+   output:
+   Enter Pin1234
+Incorrect Pin
+Please try again
